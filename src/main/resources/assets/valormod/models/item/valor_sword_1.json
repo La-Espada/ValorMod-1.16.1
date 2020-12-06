@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "valormod:items/valor_sword_1"
+  }
+}

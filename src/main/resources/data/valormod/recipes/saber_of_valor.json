@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " x ",
+    " x ",
+    " d "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "d":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "valormod:saber_of_valor",
+    "count": 1
+  }
+}

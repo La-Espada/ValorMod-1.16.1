@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    " x ",
+    " x "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:iron_ingot"
+    }
+
+  },
+  "result":
+  {
+    "item": "valormod:lightsaber_edge_without_cristal",
+    "count": 1
+  }
+}

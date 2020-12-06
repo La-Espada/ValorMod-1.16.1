@@ -1,0 +1,32 @@
+{
+  "item.valormod.poison_apple" : "Poison Apple",
+  "item.valormod.oven" : "Oven",
+  "item.valormod.ruby_helmet" : "Ruby Helmet",
+  "item.valormod.ruby_chestplate" : "Ruby Chestplate",
+  "item.valormod.ruby_leggings" : "Ruby Leggings",
+  "item.valormod.ruby_boots" : "Ruby Boots",
+  "item.valormod.shadow_bow" : "Shadow Bow",
+  "item.valormod.valor_sword" : "Valor Sword",
+  "item.valormod.valor_sword_1": "Valor Sword 1",
+  "item.valormod.sword_of_valor" : "Sword of Valor",
+  "item.valormod.valor_glasses" : "Valor Glasses",
+  "item.valormod.valor_chestplate" : "Valor Chestplate",
+  "item.valormod.valor_leggings" : "Valor Leggings",
+  "item.valormod.valor_boots" : "Valor Boots",
+  "block.valormod.ruby_block" : "Ruby Block",
+  "itemGroup.valorTab" : "Valor Item",
+  "entity.valormod.hog" : "Hog",
+  "block.valormod.dark_iron_ore" : "Dark Iron Ore",
+  "block.valormod.dark_grass" : "Dark Grass",
+  "item.valormod.blue_cristal" : "Blue Cristal",
+  "item.valormod.blue_lightsaber_edge" : "Blue Lightsaber Edge",
+  "item.valormod.lightsaber_edge_without_cristal" : "Lightsaber Edge without Cristal",
+
+  "item.valormod.blue_lightsaber" : "Saber of Valor",
+  "item.valormod.battery" : "Battery",
+
+  "item.valormod.4_commander_helmet" : "4 Commander Helmet",
+  "item.valormod.4_commander_chestplate" : "4 Commander Chestplate",
+  "item.valormod.4_commander_leggings" : "4 Commander Leggings",
+  "item.valormod.4_commander_boots" : "4 Commander Boots"
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    " d ",
+    " x "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "valormod:lightsaber_edge_without_cristal"
+    },
+    "d":
+    {
+      "item": "valormod:blue_cristal"
+    }
+
+  },
+  "result":
+  {
+    "item": "valormod:blue_lightsaber_edge",
+    "count": 1
+  }
+}
